@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "hindustantimes.com",
+            "title": "LIVE: Study shows early community transmission of Omicron in Delhi, reports ANI",
+            "description": "Breaking news updates January 15, 2022: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
+            "url": "https://www.hindustantimes.com/india-news/breaking-news-updates-january-15-2022-101642205954431.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/01/15/1600x900/Breaking-News-Live-Blog-pic_1626307942790_1642206427919.jpg",
+            "publishedAt": "2022-01-15T06:43:39+00:00",
+            "content": "India reports 268,833 new Covid cases, 402 deaths in last 24 hours; active caseload over 14 lakhIndia on Saturday reported 268,833 fresh Covid-19 cases and 402 deaths in last 24 hours, taking the act… [+172 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Businessinsider.co.za | TAKE A LOOK | This refurbished 5-star lodge near Victoria Falls reopens in March",
+            "description": "The Zambezi Sands River Lodge is almost ready to reopen after undergoing an extensive refurbishment during the Covid-19 pandemic.",
+            "url": "https://www.businessinsider.co.za/new-zambezi-sands-river-lodge-near-victoria-falls-2022-1",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/2136/3776ae4c54ef470fa7e3ee15bf1902ea.jpg",
+            "publishedAt": "2022-01-15T05:14:08+00:00",
+            "content": "<ul><li>Batoka Hospitality Zimbabwe has been busy during the pandemic, acquiring three lodges around Victoria Falls from Imvelo Safari Lodges.</li><li>The refurbished Zambezi Sands River Lodge will b… [+2832 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Nathaniel Weixel",
+            "title": "Supreme Court handcuffs Biden on vaccinations | TheHill",
+            "description": "The Supreme Court’s ruling against vaccine-or-test rules for businesses dealt a major blow to the...",
+            "url": "http://thehill.com/policy/healthcare/589855-supreme-court-handcuffs-biden-on-vaccinations",
+            "urlToImage": "https://thehill.com/sites/default/files/scotus_060721gn5_lead.jpg",
+            "publishedAt": "2022-01-14T23:02:13Z",
+            "content": "The Supreme Courts ruling against vaccine-or-test rules for businesses dealt a major blow to the Biden administration's efforts to combat the pandemic, leaving them without many more tools to boost t… [+5732 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Marieke Walsh",
+            "title": "Canada urged to reverse on-arrival mandatory COVID-19 testing policy for travellers",
+            "description": "Business groups say mandatory on-arrival travel testing should end, Tam calls it a ‘drain’ on system",
+            "url": "https://www.theglobeandmail.com/politics/article-canada-urged-to-reverse-on-arrival-mandatory-covid-19-testing-policy/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/4JO-jOVwP16PgfTjcCmpenh1ETw=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4XUWOU76DVL4RBVU6THLLJD7VI.jpg",
+            "publishedAt": "2022-01-14T22:23:01Z",
+            "content": "A traveller stops to be tested for COVID-19 at Vancouver International Airport on Dec. 2, 2021.DARRYL DYCK/The Canadian Press\r\nCanadas Chief Public Health Officer cast some doubt on the continued val… [+4623 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Taylor Hatmaker",
+            "title": "The FTC is reportedly probing Meta's VR business for antitrust violations",
+            "description": "Following news that the FTC’s antitrust suit against Meta cleared a critical hurdle earlier this week, the agency is apparently also taking a sharp interest in the company’s VR business. Bloomberg reports that the FTC and multiple state attorneys general are …",
+            "url": "https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/dripping-meta-logo.jpg?w=711",
+            "publishedAt": "2022-01-14T22:16:42Z",
+            "content": "Following news that the FTC’s antitrust suit against Meta cleared a critical hurdle earlier this week, the agency is apparently also taking a sharp interest in the company’s VR business.\r\nBloomberg r… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Jasmine Cameron-Chileshe",
+            "title": "Boris Johnson’s future on knife edge after apology to Queen for lockdown party",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzcyMTgzNGNhLThhNjktNGE1Yi1hMTRhLTI3MGI0NTFmZTUyN9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-01-14T19:22:20+00:00",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jennifer Surane",
+            "title": "Citigroup’s Retail Services Chief Chubak Leaves Bank for an Outside Job",
+            "description": "Citigroup Inc.’s David Chubak, who last year took over as head of the firm’s store-credit-card business, is departing for an outside opportunity.",
+            "url": "https://www.bloomberg.com/news/articles/2022-01-14/citigroup-s-retail-services-chief-chubak-departs-for-outside-job",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikXFUFb2zXkk/v0/1200x800.jpg",
+            "publishedAt": "2022-01-14T19:15:55+00:00",
+            "content": "Citigroup Inc.’s David Chubak, who last year took over as head of the firm’s store-credit-card business, is departing for an outside opportunity. \r\nChubak will stay with the New York-based bank throu… [+267 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Vom Händler zum Beststeller mit dem richtigen Payment-Partner",
+            "description": "Zufriedene Kunden und ein erfolgreiches Business? Wie die passende Bezahllösung die Customer Experience auf das nächste Level hebt – und das Unternehmenswachstum sichert.",
+            "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/unzer/vom-haendler-zum-beststeller-mit-dem-richtigen-payment-partner-unzer-6549035822/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2021/11/unzer-payment-partner-artikelbild.jpg?ver=1637265151",
+            "publishedAt": "2022-01-14T10:30:00+00:00",
+            "content": "Zufriedene Kunden und ein erfolgreiches Business? Wie die passende Bezahllösung die Customer Experience auf das nächste Level hebt und das Unternehmenswachstum sichert.Der Anfang ist gemacht ein klar… [+4847 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Tony Boyd",
+            "title": "Why business is optimistic about the omicron wave",
+            "description": "CEOs and chairmen from a diverse range of industries are looking past the omicron wave of COVID-19 to the normalisation of the Australian economy.",
+            "url": "http://www.afr.com/chanticleer/why-business-is-optimistic-about-the-omicron-wave-20220114-p59o7l",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.299%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_311/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/4d79d3f6c2c0269e309f804b750455bade605bb8",
+            "publishedAt": "2022-01-14T08:12:48Z",
+            "content": "Lacaze says the big difference she noticed between Europe and Australia was the easy availability of COVID-19 testing facilities in big European cities, with the predominant method being rapid antige… [+6446 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Julie Hare",
+            "title": "Pandemic job search: voracious appetite for staff is good news for university graduates",
+            "description": "Business leaders are very confident about the year ahead despite facing some of the most challenging hiring conditions in decades.",
+            "url": "http://www.afr.com/work-and-careers/careers/voracious-appetite-for-staff-is-good-news-for-graduates-20220113-p59o2x",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2492%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_185%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/e7398d59f5c460d39c0033ff14f3e189fb58f773",
+            "publishedAt": "2022-01-14T05:06:53Z",
+            "content": "Even with the gradual return of international migration this year, the shortfall of skilled talent entering the market over the past two years will take at least the same amount of time to recover, i… [+2430 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Emma Connors, Jenny Wiggins, Michael Smith, Matthew Cranston, Hans van Leeuwen",
+            "title": "Supply chain: lamb getting the chop a sign of global woes",
+            "description": "Australia Day barbecues are now under threat from COVID-19 shortages as supply chain problems hit businesses around the country and globe.",
+            "url": "http://www.afr.com/world/asia/lambs-next-as-supply-woes-grow-20220112-p59nty",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1964%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_107/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fc428ca4ce5e36f9f4e881b0d42d79757878236b",
+            "publishedAt": "2022-01-14T04:46:36Z",
+            "content": "Due to the scarcity of rapid antigen test (RAT) kits, particularly in regional areas, drivers are still having to take PCR tests and stay off work until they get the results, he says. Its pretty horr… [+12358 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Need relief from the stress of screen time? There’s an app for that",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:27.4295096Z",
+            "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "http://business.financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-11-17T17:22:19.8301159Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "FP Comment",
+            "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+            "url": "http://business.financialpost.com/category/opinion/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:51.3470632Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:31.3051754Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "News",
+            "description": "Latest breaking business news &amp; headlines. Stay in touch with the latest happenings in Local and International organizations and financial sector.",
+            "url": "http://business.financialpost.com/category/news/",
+            "urlToImage": null,
+            "publishedAt": "2020-07-09T18:37:17.5638279Z",
+            "content": "Visit the Postmedia Brands page\r\n365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2020 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmis… [+41 chars]"
+        }
+    ]
+}
